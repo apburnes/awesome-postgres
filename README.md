@@ -39,6 +39,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software)
 * [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for your Postgres DB
 * [pgAdmin](https://www.pgadmin.org/) - Postgres Administration and Management GUI
+* [PG Commander](https://eggerapps.at/pgcommander/) - A free PostgreSQL client for Mac and [Postico](https://eggerapps.at/postico/) predecessor (Commercial Software)
 * [pgModeler](http://pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
